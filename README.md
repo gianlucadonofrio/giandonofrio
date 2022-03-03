@@ -9,7 +9,5 @@
 
 <ul>
   <li>  <a href="https://github.com/giandonofrio/theFoodTruck.git"> theFoodTruck 🍔 </a> -> Vue.js y Vuetify</li>
-  <li>  <a href="https://github.com/giandonofrio/front-end-2/tree/main/ToDo"> ToDo App 📝 </a> ->  Javascript </li>
-  <li>  <a href="https://github.com/giandonofrio/front-end-2/tree/main/PerfilDeveloper"> Perfil Developer 👨🏻‍💻 </a> ->  Javascript </li>
   </ul>
 
