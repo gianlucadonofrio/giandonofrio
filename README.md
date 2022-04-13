@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gianluca D´Onofrio</h1>
 <h3 align="center">A Full-stack development student at #CertifiedTechDeveloper by MercadoLibre, Globant and Digital House and Data Scientist career at CoderHouse.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giandonofrio&label=Profile%20views&color=0e75b6&style=flat" alt="giandonofrio" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giandonofrio" alt="giandonofrio" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
