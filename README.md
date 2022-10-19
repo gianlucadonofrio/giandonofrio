@@ -1,6 +1,4 @@
 <h1 align="center">Hola 👋, soy Gianluca D'Onofrio</h1>
-<h3 align="center">Desarrollador Web Full Stack, apasionado por el desarrollo Frontend.</h3>
-
 <h3 align="left">Contáctame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gianlucadonofrio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gianlucadonofrio" height="30" width="40" /></a>
